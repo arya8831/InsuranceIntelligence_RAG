@@ -185,5 +185,5 @@ print(response)
 
 ## 👥 Contributor
 
-* **Arya Chatterjee** - *Meghnad Saha Institute of Technology*
+* **Arya Chatterjee** 
 * Project developed for the **BFSI Launchpad 2025**.
